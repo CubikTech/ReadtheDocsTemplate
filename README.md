@@ -1,4 +1,4 @@
-[English](README.en.md) | **中文**
+**中文** | [English](README.en.md)
 
 <h1 align="center">ReadtheDocsTemplate</h1>
 
