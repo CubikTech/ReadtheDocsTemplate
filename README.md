@@ -65,7 +65,7 @@ ReadtheDocsTemplate 根据知识共享（Creative Commons）
 请参见 <http://creativecommons.org/licenses/by-nc/4.0/>。
 ```
 
-> **ReadtheDocsTemplate 的代码使用 [AGPL-3.0-or-later 协议](license-translations/LICENSE-zh)（[原文](LICENSE)）作为软件分发许可证**
+> **ReadtheDocsTemplate 的代码使用 [AGPL-3.0-or-later 协议](license-translations/LICENSE-zh.CODE)（[原文](LICENSE.CODE)）作为软件分发许可证**
 
 ``` text
 ReadtheDocsTemplate - https://readthedocs.org 托管文档仓库模板

@@ -65,7 +65,7 @@ You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
 ```
 
-> **Codes of ReadtheDocsTemplate uses [AGPL-3.0-or-later License](LICENSE) as software license.**
+> **Codes of ReadtheDocsTemplate uses [AGPL-3.0-or-later License](LICENSE.CODE) as software license.**
 
 ``` text
 ReadtheDocsTemplate - Template for documentation hosted on https://readthedocs.org
