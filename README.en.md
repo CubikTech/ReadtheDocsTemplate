@@ -33,7 +33,7 @@ make html
 
 The documentation will be generated in `docs/html` directory in `en_US (English (US)).
 
-If you need to change the language of the generated documentation, you can modify the `en_US` of `language = os.environ.get('READTHEDOCS_LANGUAGE', 'en_US')` of line 69 of `source/conf.py` file to your designated language.
+If you need to change the language of the generated documentation, you can modify the `en_US` of `language = os.environ.get('READTHEDOCS_LANGUAGE', 'en_US')` of line 58 of `source/conf.py` file to your designated language.
 
 ### Update the translation files
 
