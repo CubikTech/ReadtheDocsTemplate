@@ -56,7 +56,7 @@ sphinx-intl update -p _locale -l en_US
 > **ReadtheDocsTemplate 的内容基于 [CC-BY-NC-SA-4.0 许可证](license-translations/LICENSE-zh)（[原文](LICENSE)）发行**
 
 ``` text
-ReadtheDocsTemplate (c) 由 iXOR Techbology, Cubik65536, 以及 所有贡献者 创作.
+ReadtheDocsTemplate (c) 由 CubikTech, Cubik65536, 以及 所有贡献者 创作.
 
 ReadtheDocsTemplate 根据知识共享（Creative Commons）
 署名—非商业性使用—相同方式共享 4.0 公共许可协议进行分发。
